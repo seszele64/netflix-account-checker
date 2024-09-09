@@ -1,0 +1,4 @@
+# ignore venv
+venv/
+# ignore __pycache__ folders in all directories
+__pycache__/
